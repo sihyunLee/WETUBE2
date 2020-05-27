@@ -1,0 +1,14 @@
+{
+  "name": "wetube_2",
+  "version": "1.0.0",
+  "description": "유튜브 클론 코딩",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "이시현",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
