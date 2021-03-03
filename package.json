@@ -14,7 +14,7 @@
     "express": "^4.17.1",
     "helmet": "^3.22.0",
     "morgan": "^1.10.0",
-    "pug": "^3.0.0"
+    "pug": "^3.0.1"
   },
   "scripts": {
     "start": "nodemon --exec babel-node init.js --delay 2"
